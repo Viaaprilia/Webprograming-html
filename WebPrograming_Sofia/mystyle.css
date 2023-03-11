@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+  font-family: "courier New", courier, monospace;
+}
+h2 {
+  color: yellow;
+  font-family: "courier New", courier, monospace;
+}
+h3 {
+  color: green;
+  font-family: "courier New", courier, monospace;
+}
+p {
+  color: red;
+  font-weight: bold;
+}
+.tengah {
+  text-align: center;
+}
+.kanan {
+  text-align: right;
+}
